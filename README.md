@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sxturn420
-- 👀 I’m interested in learning computer science
+- 👋 Hey there, I’m $aturn
+- 👀 I’m interested in learning computer science and AI
 - 🌱 I’m currently learning Python & Web Programming
-- 📫 How to reach me ...
 
 <!---
 Sxturn420/Sxturn420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
